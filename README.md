@@ -1,7 +1,7 @@
 ## Hi, my name is Zoya 👋
 
 💻 Enrolled as a Computer Science and Immersive Media Design Dual Degree at University of Maryland: College Park <br>
-📝 I love studying Data Science, Machine Learning, Human Computer Interaction, and Digital Media! <br>
+📝 I enjoy studying Data Science, Machine Learning, Human Computer Interaction, and Digital Media! <br>
 🎨 I'm a multi-medium artist! I make everything, from crochet plushies, to VR video games, to infographics, to acrylic paintings, and more! <br>
 👩🏽‍💻 I'm currently working on a portfolio website and teaching myself Web Development as a hobby! Check it out here: (Link coming soon!) <br>
 
